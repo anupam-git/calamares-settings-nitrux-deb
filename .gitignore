@@ -1,0 +1,12 @@
+# Compiled source #
+###################
+*.directory
+*.bak
+/.project
+*.db
+*.qmlc
+
+build/
+calamares-settings-nitrux/
+*.deb
+
